@@ -2,7 +2,7 @@
   "name": "news-website",
   "version": "1.0.0",
   "description": "A dynamic news website dedicated to programming using React, Firebase, and Stripe integration.",
-  "main": "index.js",
+  "main": "public/index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

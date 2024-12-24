@@ -1,0 +1,33 @@
+{
+  "name": "news-website",
+  "version": "1.0.0",
+  "description": "A dynamic news website dedicated to programming using React, Firebase, and Stripe integration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "firebase": "^9.1.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.3.0",
+    "react-toastify": "^8.0.0",
+    "react-stripe-js": "^1.6.0",
+    "stripe": "^8.0.0",
+    "tailwindcss": "^3.0.7",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "react-scripts": "^4.0.3"
+  },
+  "author": "Nishan Rajak",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

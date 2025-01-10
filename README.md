@@ -24,13 +24,13 @@ A modern, dynamic, and visually appealing **React**-based news website designed 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/news-website.git
+git clone https://github.com/your-username/news.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd news-website
+cd news
 ```
 
 ### Step 2: Install Dependencies
